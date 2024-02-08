@@ -1,5 +1,3 @@
-
-
 $(document).ready(function() {
     $(".botao").click(function() {
         $(this).animate({

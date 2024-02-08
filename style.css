@@ -11,7 +11,7 @@ section {
     height: 300px;
 }
 
-.banner img {
+.banner img="https://media.discordapp.net/attachments/1203040332145500201/1205189964917248021/PSX_20240206_140740.jpg?ex=65d7779e&is=65c5029e&hm=ec242453b84bd94279adf0f557c17171f09bedbf204f923de5ee1fae975ab207&" {
     width: 100%;
     height: 100%;
     object-fit: cover;
